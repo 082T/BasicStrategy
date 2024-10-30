@@ -1,3 +1,11 @@
+## Korištene biblioteke:
+
+hyperopt==0.2.7  
+matplotlib==3.9.2  
+numpy==2.1.2  
+pandas==2.2.3  
+yfinance==0.2.41  
+
 # Upute za pokretanje
 
   --ticker TICKER       
