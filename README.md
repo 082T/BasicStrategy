@@ -1,4 +1,8 @@
-## Korištene biblioteke:
+# Opis
+
+Implementacija SMA i EMA cross strategije. Za scrapeanje koristi se yfinance. Za optimizaciju koristi se hyperopt. Prvih 250 dana povijesti podataka je preskočeno kako bi se dobili short i long window te kako bi optimizacija počela od istog trenutka za svaku testiranu kombinaciju parametara.
+
+# Korištene biblioteke
 
 hyperopt==0.2.7  
 matplotlib==3.9.2  
@@ -23,7 +27,7 @@ yfinance==0.2.41
   --strategy STRATEGY   
   Strategy to test  (strategyEMA / strategySMA)
 
-  # Primjeri pokretanja:
+  # Primjeri pokretanja
 
   ### Naredba:
   python .\main.py --strategy strategySMA --optimize  
