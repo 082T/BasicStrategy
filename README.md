@@ -49,7 +49,11 @@ yfinance==0.2.41
 
 ![image](https://github.com/user-attachments/assets/dc162692-bc3f-4885-8db8-b30821dbbe83)
 
+## QuantConnect implementacija nalazi se u fileu quant_connect_implementation.py
 
+![image](https://github.com/user-attachments/assets/b2c33083-3a3d-4bd8-b180-c460de4329d0)
+
+![image](https://github.com/user-attachments/assets/de3f950f-63a7-454c-a118-1c64e93f9a41)
 
 
 
